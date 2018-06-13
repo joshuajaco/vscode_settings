@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "editor.tabSize": 2,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true,
+  "javascript.validate.enable": false,
+  "flow.useNPMPackagedFlow": true,
+  "jest.enableInlineErrorMessages": false,
+  "jest.enableSnapshotUpdateMessages": false,
+  "jest.runAllTestsFirst": false,
+  "typescript.autoImportSuggestions.enabled": false,
+  "workbench.startupEditor": "none",
+  "html.format.wrapLineLength": 120,
+  "editor.rulers": [
+    80
+  ],
+  "workbench.editor.enablePreview": false,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "reason.codelens.enabled": true,
+  "reason.diagnostics.tools": [
+    "merlin",
+    "bsb"
+  ]
+}
